@@ -5,28 +5,47 @@ A modern and responsive appointment booking website built for Zapmor, a platform
 Features
 
 🏠 Modern and responsive landing page
+
 🩺 Doctor services (General Physician, Dentist, Dermatologist)
+
 💇 Beauty parlor services (Haircut & Styling, Manicure & Pedicure, Facial & Spa)
+
 🔀 Interactive Doctors / Beauty Parlors service toggle
+
 📅 Online appointment booking form
+
 🔗 Dynamic "Specific Service" dropdown based on the selected service type
+
 💬 Customer testimonials
+
 📊 Statistics section (appointments booked, verified providers, average rating)
+
 📩 Contact form and contact information
+
 📱 App download call-to-action (Zapmor User & Zapmor Partner)
+
 ✨ Floating animated cards, gradient buttons and smooth scrolling
+
 📲 Mobile-friendly responsive design with auto-closing navbar menu
+
 
 Technologies Used
 
-HTML5
-CSS3
-Bootstrap 5.3
-JavaScript (Vanilla)
-Bootstrap Icons
-Font Awesome 6
-Google Fonts (Poppins)
-Git & GitHub
+1. HTML5
+
+2. CSS3
+
+3. Bootstrap 5.3
+
+4. JavaScript (Vanilla)
+
+5. Bootstrap Icons
+
+6. Font Awesome 6
+
+7. Google Fonts (Poppins)
+
+8. Git & GitHub
 
 Main Sections
 
@@ -65,8 +84,7 @@ Future Improvements
 6. Real-time appointment availability management
 7. Service search and filtering
 8. Admin dashboard for providers
-9. Image optimization
-10.Live Google Play download links
+10. Live Google Play download links
 11.Privacy Policy and Terms of Service pages
 
 
